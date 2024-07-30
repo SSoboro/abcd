@@ -1,7 +1,15 @@
-## issue
+## Issue
 
 close: #
 
 ## 구현 기능
 
-(이미지 / 추가 전달 사항 선택적)
+no response
+
+## 전달 사항
+
+no response
+
+## 기타
+
+no response
